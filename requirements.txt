@@ -1,0 +1,4 @@
+python-docx>=0.8.11
+PyMuPDF>=1.21.1
+chardet>=4.0.0
+python-magic>=0.4.27
